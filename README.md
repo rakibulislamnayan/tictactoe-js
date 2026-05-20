@@ -2,8 +2,8 @@
 
 A clean, fully-featured Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://YOUR-USERNAME.github.io/tictactoe-js)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/tictactoe-js)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://rakibulislamnayan.github.io/tictactoe-js)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rakibulislamnayan/tictactoe-js)
 
 ---
 
@@ -24,7 +24,7 @@ A clean, fully-featured Tic Tac Toe game built with vanilla HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-👉 [Play it here](https://YOUR-USERNAME.github.io/tictactoe-js)
+👉 [Play it here](https://rakibulislamnayan.github.io/tictactoe-js)
 
 ---
 
@@ -69,7 +69,7 @@ tictactoe-js/
 No setup needed. Just clone and open:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tictactoe-js.git
+git clone https://github.com/rakibulislamnayan/tictactoe-js.git
 cd tictactoe-js
 open index.html
 ```
@@ -83,7 +83,7 @@ Or simply download `index.html` and double-click it in your file manager.
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)`
-4. Your game goes live at `https://YOUR-USERNAME.github.io/tictactoe-js`
+4. Your game goes live at `https://rakibulislamnayan.github.io/tictactoe-js`
 
 ---
 
@@ -99,7 +99,7 @@ Or simply download `index.html` and double-click it in your file manager.
 
 ## 📬 Connect
 
-Made by **[Your Name]** · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/YOUR-USERNAME)
+Made by **Md. Rakibul Islam Nayan** · [LinkedIn](https://www.linkedin.com/in/rakibul-islam-nayan/) · [GitHub](https://github.com/rakibulislamnayan)
 
 ---
 
