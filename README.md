@@ -30,8 +30,7 @@ A clean, fully-featured Tic Tac Toe game built with vanilla HTML, CSS, and JavaS
 
 ## 📸 Screenshot
 
-<!-- Add a screenshot after deploying -->
-![Tic Tac Toe Screenshot](screenshot.png)
+![[Tic Tac Toe Screenshot](https://ibb.co.com/3m8XnSJ8)](screenshot.png)
 
 ---
 
