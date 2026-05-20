@@ -9,8 +9,8 @@ A clean, fully-featured Tic Tac Toe game built with vanilla HTML, CSS, and JavaS
 
 ## ✨ Features
 
-- **2 Player mode** — take turns on the same device
-- **vs AI mode** — play against a computer opponent
+- **2 Player mode**: take turns on the same device
+- **vs AI mode**: play against a computer opponent
   - 🟢 Easy: random moves
   - 🟡 Medium: mixed strategy
   - 🔴 Hard: unbeatable (Minimax algorithm)
