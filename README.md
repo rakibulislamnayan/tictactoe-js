@@ -11,14 +11,14 @@ A clean, fully-featured Tic Tac Toe game built with vanilla HTML, CSS, and JavaS
 
 - **2 Player mode** — take turns on the same device
 - **vs AI mode** — play against a computer opponent
-  - 🟢 Easy — random moves
-  - 🟡 Medium — mixed strategy
-  - 🔴 Hard — unbeatable (Minimax algorithm)
-- **Score tracking** — keeps track of wins and draws across rounds
-- **Win highlighting** — winning line lights up on victory
-- **Smooth animations** — pop-in effects on every move
-- **Fully responsive** — works on mobile, tablet, and desktop
-- **Zero dependencies** — pure HTML, CSS, JavaScript
+  - 🟢 Easy: random moves
+  - 🟡 Medium: mixed strategy
+  - 🔴 Hard: unbeatable (Minimax algorithm)
+- **Score tracking**: keeps track of wins and draws across rounds
+- **Win highlighting**: winning line lights up on victory
+- **Smooth animations**: pop-in effects on every move
+- **Fully responsive**: works on mobile, tablet, and desktop
+- **Zero dependencies**: pure HTML, CSS, JavaScript
 
 ---
 
@@ -47,7 +47,7 @@ A clean, fully-featured Tic Tac Toe game built with vanilla HTML, CSS, and JavaS
 
 ## 🧠 How the AI Works
 
-The **Hard** difficulty uses the **Minimax algorithm** — a classic recursive decision-tree algorithm used in game theory. It explores every possible future game state and picks the optimal move, making it theoretically unbeatable.
+The **Hard** difficulty uses the **Minimax algorithm**: a classic recursive decision-tree algorithm used in game theory. It explores every possible future game state and picks the optimal move, making it theoretically unbeatable.
 
 The **Medium** difficulty introduces randomness (40% random, 60% optimal) to make the game more fun for casual players.
 
